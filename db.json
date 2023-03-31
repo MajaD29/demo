@@ -1,0 +1,38 @@
+[
+  {
+    "key": "MIDEMO",
+    "uptime_app": 120,
+    "avg_login_time": 4,
+    "users": 50,
+    "restarts": 10,
+    "memory_exc": 6,
+    "running_query_over_10": 2
+  },
+  {
+    "key": "RCC",
+    "uptime_app": 140,
+    "avg_login_time": 6,
+    "users": 200,
+    "restarts": 20,
+    "memory_exc": 9,
+    "running_query_over_10": 5
+  },
+  {
+    "key": "RP",
+    "uptime_app": 170,
+    "avg_login_time": 5,
+    "users": 150,
+    "restarts": 30,
+    "memory_exc": 4,
+    "running_query_over_10": 7
+  },
+  {
+    "key": "TEST",
+    "uptime_app": 160,
+    "avg_login_time": 3,
+    "users": 77,
+    "restarts": 40,
+    "memory_exc": 8,
+    "running_query_over_10": 3
+  }
+]
